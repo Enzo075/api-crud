@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "api-crud"
+    }
+  },
+  "defaultProject": "api-crud",
+  "cli": {
+    "analytics": false
+  }
 }
